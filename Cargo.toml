@@ -1,9 +1,9 @@
 [package]
-name = "clipboard"
-version = "0.5.0"
-authors = ["Avi Weinstock <aweinstock314@gmail.com>"]
-description = "rust-clipboard is a cross-platform library for getting and setting the contents of the OS-level clipboard."
-repository = "https://github.com/aweinstock314/rust-clipboard"
+name = "crossclip"
+version = "0.6.0"
+authors = ["Avi Weinstock <aweinstock314@gmail.com>", "Marius Cobzarenco <marius.cobzarenco@gmail.com>"]
+description = "Crossclip is a cross-platform library for getting and setting the contents of the OS-level clipboard. It is a fork of rust-clipboard."
+repository = "https://github.com/mcobzarenco/cliptard"
 license = "MIT / Apache-2.0"
 keywords = ["clipboard"]
 
